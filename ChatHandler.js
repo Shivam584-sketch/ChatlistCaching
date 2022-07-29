@@ -4,7 +4,7 @@ const chat_names = [
   "Samarth Bandaiya",
   "Divyansh Khare",
   "Apurva Dutta",
-  "Toseef Ali Khan",
+  "Pussu Adhana",
   "Pinky Mangla",
   "Pawan Verma",
   "Shubham Mishra",
